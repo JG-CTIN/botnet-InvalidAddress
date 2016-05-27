@@ -2,7 +2,7 @@
 ### [InvalidAddress]
 #### [Updated every 2~3 hours]
 
-# [Counting 2519 IPs]
+# [Counting 2521 IPs]
 
 # [Symptoms] 
 ###   [InvalidAddress] [invalid address rejected]
